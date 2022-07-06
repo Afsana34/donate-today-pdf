@@ -1,0 +1,31 @@
+body h1{
+    font-family: 'Poppins', sans-serif;
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(71, 114, 255);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+
+}
+.donate{
+    background-image: url(donation8.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    
+   
+
+}
+p{
+    font-size: 20px;
+    color: white;
+    width: 87%;
+}
+h1{
+    color: white;
+}
