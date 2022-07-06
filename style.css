@@ -8,6 +8,8 @@ body h1{
     padding: 10px 40px;
     color: white;
     border-radius: 5px;
+    
+   
 
 }
 .donate{
@@ -23,9 +25,104 @@ body h1{
 }
 p{
     font-size: 20px;
-    color: white;
-    width: 87%;
+    color: aqua;
+    text-align: center;
+    margin-right: 20px;
+    width: 80%;
 }
 h1{
     color: white;
 }
+#second-heading{
+    color: black;
+    text-align: center;
+}
+#second-paragraph{
+    color: black;
+    text-align: center;
+}
+.donate-today{
+    width: 100px;
+    height: 90px;
+    background-color: cadetblue;
+    margin-left: 70px;
+}
+.donate-today h1{
+    color: black;
+    margin-left: 9px;
+    margin-right: 7px;
+    padding-top: 15px;
+}
+.our-donate-plan{
+    display: flex;
+    margin-left: 200px;
+}
+h5{
+    text-align: center;
+
+    
+}
+.border{
+   
+}
+#second-button{
+    text-align: center;
+}
+span{
+   border: 5px solid black;
+
+    
+}
+#span{
+    text-align: center;
+}
+#third-heading{
+    color: black;
+    text-align: center;
+}
+#third-paragraph{
+    color: black;
+    text-align: center;
+}
+.donate-plan{
+    width: 350px;
+    height: 350px;
+    background-color: aqua;
+    margin-left: 70px;
+    margin-right: 10px;
+}
+#icon{
+    font-size: 50px;
+    color: black;
+}
+
+
+.donate-plan p{
+    color: black;
+    font-size: 15px;
+    margin-left: 20px;
+}
+#second-box{
+    background-color: darksalmon;
+}
+#third-box{
+    background-color: yellowgreen;
+}
+.flexible{
+    display: flex;
+}
+h2{
+    margin-left: 20px;
+}
+.my-updates{
+    text-align: center;
+    color: black;
+    font-size: large;
+}
+footer{
+    text-align: center;
+    color: crimson;
+    background-color: black;
+    font-style: italic;
+}
+
