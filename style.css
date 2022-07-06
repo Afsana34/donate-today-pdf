@@ -68,11 +68,6 @@ h5{
 #second-button{
     text-align: center;
 }
-span{
-   border: 5px solid black;
-
-    
-}
 #span{
     text-align: center;
 }
@@ -115,15 +110,46 @@ span{
 h2{
     margin-left: 20px;
 }
-.my-updates{
-    text-align: center;
-    color: black;
-    font-size: large;
-}
+
+
 footer{
     text-align: center;
     color: crimson;
     background-color: black;
     font-style: italic;
+   padding-top: 10px;
+    height: 100px;
+
+}
+.updates{
+    color: black;
+    text-align: center;
+    margin-left: 90px;
+}
+.sub{
+    width: 70px;
+    background-color: crimson;
+    color: white;
+}
+.email{
+    background-color: dimgrey;
+    color: white;
+}
+
+.margin{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.input{
+    
+    display: flex;
+    
+    
+     
+    background-color: khaki;
+    width: 500px;
+   margin: auto;
+    padding: 50px;
+    
 }
 
